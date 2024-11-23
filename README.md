@@ -16,7 +16,7 @@ Heavily based on [this article.](https://habr.com/ru/companies/vk/articles/49079
 This archiver uses *deflated* compression method (combination of LZ77 and Huffman coding)
 
 ## 7z2zip and zip27z converter
-inside `converter` folder you can find simple python3 script to convert between 7z and zip.
+inside `converter` folder you can find simple python3 script to convert between 7z and zip (and archives to test it).
 Note that you need `7za`, `zip` and `unzip` tools to use it.
 
 1) `sudo apt-get install zip`
